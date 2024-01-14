@@ -1,0 +1,138 @@
+﻿<Window
+    x:Class="WpfApp9.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfApp9"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="770"
+    Height="390"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Grid>
+        <Button
+            Width="60"
+            Height="330"
+            Margin="226,21,484,22"
+            Click="Button_Click"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;F" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="291,22,419,22"
+            Click="Button_Click_7"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;G" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="256,22,454,182"
+            Background="Black"
+            Click="Button_Click_6"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;F#"
+            Foreground="#FFF9F6F6" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="356,21,354,22"
+            Click="Button_Click_9"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;A" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="421,22,289,22"
+            Click="Button_Click_11"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;B" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="386,22,324,182"
+            Background="Black"
+            Click="Button_Click_10"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Bb"
+            Foreground="#FFF9F6F6" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="322,22,388,182"
+            Background="Black"
+            Click="Button_Click_8"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;G#"
+            Foreground="#FFF9F6F6" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="484,21,226,22"
+            Click="Button_Click_12"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;C1" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="551,22,159,22"
+            Click="Button_Click_14"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;D1" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="518,22,192,182"
+            Background="Black"
+            Click="Button_Click_13"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;C1#"
+            Foreground="#FFF9F6F6" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="617,22,93,22"
+            Click="Button_Click_16"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;E1" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="584,22,126,182"
+            Background="Black"
+            Click="Button_Click_15"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;D1#"
+            Foreground="#FFF9F6F6" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="683,22,27,22"
+            Click="Button_Click_17"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;F1" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="30,21,680,22"
+            Click="Button_Click_1"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;C" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="97,22,613,22"
+            Click="Button_Click_3"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;D" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="64,22,646,182"
+            Background="Black"
+            Click="Button_Click_2"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;C#"
+            Foreground="#FFF9F6F6" />
+        <Button
+            Width="60"
+            Height="330"
+            Margin="163,22,547,22"
+            Click="Button_Click_5"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;E" />
+        <Button
+            Width="60"
+            Height="170"
+            Margin="130,22,580,182"
+            Background="Black"
+            Click="Button_Click_4"
+            Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;D#"
+            Foreground="#FFF9F6F6" />
+
+    </Grid>
+</Window>
