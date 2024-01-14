@@ -6,8 +6,9 @@
     xmlns:local="clr-namespace:WpfApp9"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Title="MainWindow"
-    Width="770"
-    Height="390"
+    Width="790"
+    Height="440"
+    KeyDown="Window_KeyDown"
     WindowStartupLocation="CenterScreen"
     mc:Ignorable="d">
     <Grid>
